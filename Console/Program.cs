@@ -10,6 +10,8 @@ namespace Console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Pametno !");
+            Console.WriteLine("Ovo je pametno!");
         }
     }
 }
