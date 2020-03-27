@@ -12,6 +12,7 @@ namespace Console
         {
             Console.WriteLine("Pametno !");
             Console.WriteLine("Ovo je pametno!");
+            Console.WriteLine("Ovo je novi unos.");
         }
     }
 }
